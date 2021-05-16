@@ -1,19 +1,7 @@
 var store = [{
-        "title": "My Birthday",
-        "excerpt":" today is my birthday       maybe i could do all the posts in markdown so it's easier to write. ","categories": [],
+        "title": "Welcome To My Website",
+        "excerpt":"This is the first post in my website, so this is meant to be both a test –I'm testing how does this works– and an introduction for the reader. This webpage is a personal and professional profile, here I will post things I do related to Data Science, professional information...","categories": [],
         "tags": [],
-        "url": "/my-birthday/",
-        "teaser": null
-      },{
-        "title": "Testing Posts",
-        "excerpt":"this is a post from 1st may Today I'm starting to create my personal website. As stated, I don't know to write code in html but I'm ready to learn. This is a test so it is most likely nobody ever sees this. I hope this looks good in the...","categories": [],
-        "tags": [],
-        "url": "/testing-posts/",
-        "teaser": null
-      },{
-        "title": "First Entry",
-        "excerpt":" I don't really know html       Today I'm starting to create my personal website. As stated, I don't know to write code in html but I'm ready to learn.     This is a test so it is most likely nobody ever sees this. I hope this looks good in the webpage. ","categories": [],
-        "tags": [],
-        "url": "/first-entry/",
+        "url": "/welcome-to-my-website/",
         "teaser": null
       }]

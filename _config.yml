@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en"
-title                    : "Personal website"
+title                    : "Jordi's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jordi Puig Rabat"
-description              : "An amazing website."
+description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,22 +96,23 @@ analytics:
 author:
   name             : "Jordi Puig Rabat"
   avatar           : "/assets/images/perfil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Data Science and Engineering"
   location         : "Barcelona"
   email            : "jordipuig37@gmail.com"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jordipuig37"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jordi-puig-rabat/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jordipuig37"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/jordipuigrabat"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    
 
 # Site Footer
 footer:
