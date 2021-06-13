@@ -6,8 +6,8 @@ main:
     url: /portfolio/
   - title: "CV"
     url: /curriculum-vitae/
-  - title: "Presentation"
-    url: /_pages/cover-letter/
+  #- title: "Presentation"
+  #  url: /_pages/cover-letter/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   
