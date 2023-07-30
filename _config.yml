@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Jordi Puig Rabat"
   avatar           : "/assets/images/perfil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science and Engineering"
+  bio              : "Data Engineering"
   location         : "Barcelona"
   email            : "jordipuig37@gmail.com"
   links:
@@ -106,9 +106,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jordipuig37"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/jordipuigrabat"
+    # - label: "Kaggle"
+    #   icon: "fab fa-fw fa-kaggle"
+    #   url: "https://www.kaggle.com/jordipuigrabat"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
